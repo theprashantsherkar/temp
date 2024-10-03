@@ -1,0 +1,23 @@
+.skills-section {
+    padding: 2rem;
+    background-color: #162447;
+    color: #ffffff;
+  }
+  
+  .skills-list {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    flex-wrap: wrap;
+  }
+  
+  .skills-list li {
+    background-color: #414ecf;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+  }
+
+  h2{
+    color: rgb(239, 199, 165);
+  }
+  

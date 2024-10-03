@@ -1,0 +1,15 @@
+/* src/styles/Projects.css */
+.projects-section {
+    padding: 2rem;
+    background-color: #0b1a36;
+    color: #ffffff;
+  }
+  
+  .projects-content {
+    margin-top: 1rem;
+  }
+  
+  .project-item {
+    margin-bottom: 1rem;
+  }
+  

@@ -1,0 +1,15 @@
+/* src/styles/Experience.css */
+.experience-section {
+    padding: 2rem;
+    background-color: #162447;
+    color: #ffffff;
+  }
+  
+  .experience-content {
+    margin-top: 1rem;
+  }
+  
+  .experience-item {
+    margin-bottom: 1rem;
+  }
+  

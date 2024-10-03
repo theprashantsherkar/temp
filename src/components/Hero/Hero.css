@@ -1,0 +1,46 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    background-color: #0b1a36;
+    color: #ffffff;
+  }
+  
+  .hero-content {
+    max-width: 50%;
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+  }
+  
+  .hero-content p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+  }
+  
+  .contact-button {
+    padding: 0.5rem 1.5rem;
+    background-color: #5764f2;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .contact-button:hover {
+    background-color: #414ecf;
+  }
+  
+  .hero-image img {
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+  }
+
+  h1{
+    color: rgb(239, 199, 165);
+  }
+  
